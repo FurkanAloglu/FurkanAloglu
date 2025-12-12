@@ -1,16 +1,15 @@
-## Hi there 👋
+### Merhaba, Ben Furkan! 👋
 
-<!--
-**FurkanAloglu/FurkanAloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben güvenlik odaklı düşünen bir Yazılım Mühendisliği öğrencisiyim. Sistemlerin nasıl çalıştığını anlamayı ve onları daha güvenli hale getirmeyi seviyorum.
 
-Here are some ideas to get you started:
+Şu anda **Model Uydu (Teknofest)** projesinde gömülü yazılım ve yer istasyonu iletişimi üzerine çalışıyor, aynı zamanda **PortSwigger Web Security Academy** ile web zafiyetleri üzerine derinleşiyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 Şu an üzerinde çalıştıklarım
+* **Model Uydu Projesi (Teknofest):** Takımımızla birlikte sensör verilerini toplayan ve yer istasyonuna ileten bir uçuş yazılımı geliştiriyoruz. (Telemetri & Gömülü Sistemler)
+* **Web Güvenliği Araştırmaları:** PortSwigger Academy üzerinde XSS, SQLi ve Logic zafiyetleri üzerine lab çözümleri yapıyorum.
+
+#### 📫 İletişim
+* **LinkedIn:** https://www.linkedin.com/in/furkan-alo%C4%9Flu-9aa580306/
+* **Mail:** alogluwork@gmail.com
