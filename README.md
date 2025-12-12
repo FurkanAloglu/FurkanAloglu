@@ -2,7 +2,7 @@
 
 Ben güvenlik odaklı düşünen bir Yazılım Mühendisliği öğrencisiyim. Sistemlerin nasıl çalıştığını anlamayı ve onları daha güvenli hale getirmeyi seviyorum.
 
-Şu anda **Model Uydu (Teknofest)** projesinde gömülü yazılım ve yer istasyonu iletişimi üzerine çalışıyor, aynı zamanda **PortSwigger Web Security Academy** ile web zafiyetleri üzerine derinleşiyorum.
+Şu anda **Model Uydu (Teknofest)** projesinde gömülü yazılım ve yer istasyonu iletişimi üzerine çalışıyor, aynı zamanda **PortSwigger Web Security Academy** ile web zafiyetleri üzerine derinleşiyorum. Her gün yapay zekayı kullanarak yeni şeyler öğrenip üretiyorum.
 
 ---
 
