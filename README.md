@@ -10,6 +10,7 @@ Ben güvenlik odaklı düşünen bir Yazılım Mühendisliği öğrencisiyim. Si
 * **Model Uydu Projesi (Teknofest):** Takımımızla birlikte sensör verilerini toplayan ve yer istasyonuna ileten bir uçuş yazılımı geliştiriyoruz. (Telemetri & Gömülü Sistemler)
 * **Web Güvenliği Araştırmaları:** PortSwigger Academy üzerinde XSS, SQLi ve Logic zafiyetleri üzerine lab çözümleri yapıyorum.
 * **Gelişim:** Her gün kendimi her konuda geliştirmeye çalışıyorum.
+* **Projem:** Auto Recon Tool geliştiriyorum.
 
 #### 📫 İletişim
 * **LinkedIn:** https://www.linkedin.com/in/furkan-alo%C4%9Flu-9aa580306/
